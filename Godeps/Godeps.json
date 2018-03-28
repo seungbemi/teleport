@@ -1,0 +1,18 @@
+{
+	"ImportPath": "teleport",
+	"GoVersion": "go1.10",
+	"GodepVersion": "v80",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "gofred",
+			"Rev": "1c67ae091ffe62ca983b9417db5a05d29a2b4bf9"
+		},
+		{
+			"ImportPath": "gopkg.in/yaml.v2",
+			"Rev": "cd8b52f8269e0feb286dfeef29f8fe4d5b397e0b"
+		}
+	]
+}
